@@ -1,9 +1,8 @@
 table{
     margin: 25px 50px 50px 50px;
-    width:150%
+    width:100%
 }
-table, th{
-    border: 1px dotted;
+table, th {
+    border: 1px solid;
     border-color: darkorchid;
-    
 }
