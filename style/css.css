@@ -1,1 +1,9 @@
-//
+table{
+    margin: 25px 50px 50px 50px;
+    width:200%
+}
+table, th{
+    border: 1px dotted;
+    border-color: darkorchid;
+    
+}
