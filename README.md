@@ -1,2 +1,2 @@
 # website
-New website using niceGUI 
+New website using Blazor (ts kicking my ass...)
