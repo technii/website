@@ -31,5 +31,5 @@ d:\projects\new website\website\website\obj\Debug\net9.0\website.pdb
 d:\projects\new website\website\website\obj\Debug\net9.0\website.genruntimeconfig.cache
 d:\projects\new website\website\website\obj\Debug\net9.0\ref\website.dll
 D:\projects\new website\website\website\obj\Debug\net9.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
-D:\projects\new website\website\website\obj\Debug\net9.0\compressed\ssunkdq9b2-x4jg9kssls.gz
-D:\projects\new website\website\website\obj\Debug\net9.0\compressed\lilcyqjvpt-x4jg9kssls.gz
+d:\projects\new website\website\website\obj\Debug\net9.0\compressed\ssunkdq9b2-pkq1hj15p2.gz
+d:\projects\new website\website\website\obj\Debug\net9.0\compressed\lilcyqjvpt-pkq1hj15p2.gz
